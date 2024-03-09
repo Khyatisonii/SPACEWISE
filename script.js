@@ -39,3 +39,11 @@ function openSatelliteTrackingPage(){
     window.location.href="satellitetracker.html";
 }
 
+function openTrajectoryPage(){
+    window.location.href="trajectory.html";
+}
+function openFuelPage(){
+    window.location.href="fuel.html";
+}
+
+
